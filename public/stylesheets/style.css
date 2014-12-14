@@ -1,0 +1,23 @@
+body {
+	padding: 50px;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+	color: #00B7FF;
+}
+.btn {
+	margin : 0px;
+	background-color: #ddd;
+	padding : 10px;
+	display: inline-block;
+	cursor: pointer;
+	text-decoration: none; 
+	color :black;
+}
+.btn:hover {
+	background-color: #d3d3d3;
+}
+.red {
+	background-color: red;
+}

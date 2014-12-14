@@ -1,0 +1,16 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "ejs": "*",
+    "express": "3.4.8",
+    "express-session": "^1.9.3",
+    "passport": "^0.2.1",
+    "passport-local": "^1.0.0"
+  }
+}
